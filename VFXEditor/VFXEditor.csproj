@@ -1,13 +1,13 @@
 <Project Sdk="Dalamud.NET.Sdk/12.0.2">
     <PropertyGroup>
-        <TargetFramework>net9.0-windows</TargetFramework>
+        <TargetFramework>net9.0.3-windows</TargetFramework>
         <LangVersion>preview</LangVersion>
         <AssemblyTitle>VFXEditor</AssemblyTitle>
         <Company></Company>
         <Product>VFXEditor</Product>
         <Copyright>Copyright © 2020</Copyright>
-        <FileVersion>1.9.2.5</FileVersion>
-        <AssemblyVersion>1.9.2.5</AssemblyVersion>
+        <FileVersion>1.9.2.6</FileVersion>
+        <AssemblyVersion>1.9.2.6</AssemblyVersion>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
         <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
